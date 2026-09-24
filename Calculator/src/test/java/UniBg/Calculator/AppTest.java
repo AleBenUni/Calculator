@@ -1,4 +1,4 @@
-package Calculator.Calculator;
+package UniBg.Calculator;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

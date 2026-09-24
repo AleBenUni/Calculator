@@ -1,4 +1,4 @@
-package Calculator.Calculator;
+package UniBg.Calculator;
 
 /**
  * Hello world!
