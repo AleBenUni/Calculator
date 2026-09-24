@@ -10,4 +10,5 @@ public class giapponese
 			
 			
 			te ma fra il tipo in parte a te per noi è gay cioe mi ama gia
+			prima mi ha chiesto se potesse unirsi con noi
 }
